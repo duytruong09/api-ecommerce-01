@@ -25,7 +25,8 @@
     "mongoose": "^5.12.3",
     "mv": "^2.1.1",
     "shelljs": "^0.8.4",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "yarn.lock": "^0.0.1-security"
   },
   "devDependencies": {
     "@types/cors": "^2.8.10",
